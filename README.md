@@ -1,2 +1,2 @@
-# Projeto Dio referente â Experiência de Usuário de uma série de dashboards do Power BI
+# Projeto Dio referente à Experiência de Usuário de uma série de dashboards do Power BI
 Laboratório de Power BI para melhorar a experiência de usuário de uma série de dashboard. Este hands-on é um projeto da Plataforma Dio (cf. https://www.dio.me/) para o Bootcamp Sysvision - Data Analytics com Power BI; especificamente, é projeto do curso "Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI".
